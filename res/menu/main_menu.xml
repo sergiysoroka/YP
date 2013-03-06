@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/restaurants"
+        android:title="@string/restaurant"/>
+    <item
+        android:id="@+id/medical_services"
+        android:title="@string/medical_services"/>
+    <item
+        android:id="@+id/barber"
+        android:title="@string/barbers"/>
+    <item
+        android:id="@+id/flower"
+        android:title="@string/flowers"/>
+    <item
+        android:id="@+id/motel"
+        android:title="@string/motels"/>
+    <item
+        android:id="@+id/hotel"
+        android:title="@string/hotels"/>
+    <item
+        android:id="@+id/dentis"
+        android:title="@string/dentists"/>
+    <item
+        android:id="@+id/auto"
+        android:title="@string/autos"/>
+
+</menu>

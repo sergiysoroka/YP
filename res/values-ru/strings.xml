@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Желтые страницы Украины</string>
+    <string name="add">Добавить</string>
+    <string name="text">Тип предприятия или название</string>
+    <string name="no_records">Записей не найдено</string>
+    <string name="search_hint">Поиск записей</string>
+    <string name="search">Поиск</string>
+    <string name="restaurant">Рестораны</string>
+    <string name="medical_services">Медицинские услуги</string>
+    <string name="barbers">Парикмахерские</string>
+    <string name="flowers">Цветы</string>
+    <string name="motels">Мотели</string>
+    <string name="hotels">Гостинницы</string>
+    <string name="dentists">Стоматология</string>
+    <string name="autos">Автомобили</string>
+
+</resources>

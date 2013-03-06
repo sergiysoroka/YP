@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Yellow Pages Ukraine</string>
+    <string name="add">Add</string>
+    <string name="text">Enter business type or name</string>
+    <string name="no_records">There are no records in the table</string>
+    <string name="search_hint">Search the records</string>
+    <string name="search">Search</string>
+    <string name="restaurant">Restaurants</string>
+    <string name="medical_services">Medical Services</string>
+    <string name="barbers">Hairdressing Salons</string>
+    <string name="flowers">Flower shops</string>
+    <string name="motels">Motels</string>
+    <string name="hotels">Hotels</string>
+    <string name="dentists">Dentists</string>
+    <string name="autos">Vehicle maintenance</string>
+
+</resources>

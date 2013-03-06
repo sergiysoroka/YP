@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Жовті сторінки Украиїни</string>
+    <string name="add">Добавити</string>
+    <string name="text">Назва підприємства чи тип</string>
+    <string name="no_records">Записів не знайдено</string>
+    <string name="search_hint">Пошук записів</string>
+    <string name="search">Пошук</string>
+    <string name="restaurant">Ресторани</string>
+    <string name="medical_services">Медицина</string>
+    <string name="barbers">Перукарні</string>
+    <string name="flowers">Квіти</string>
+    <string name="motels">Мотелі</string>
+    <string name="hotels">Готелі</string>
+    <string name="dentists">Стоматологія</string>
+    <string name="autos">Автомобілі</string>
+
+</resources>
